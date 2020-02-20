@@ -91,7 +91,7 @@ DATABASES = {
         'HOST': 'localhost',
         'NAME': 'mis',
         'USER': 'root',
-        'PASSWORD': 'Admin123!',
+        'PASSWORD': 'admin123',
     }
 }
 
